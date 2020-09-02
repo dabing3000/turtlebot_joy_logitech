@@ -22,7 +22,7 @@ target_link_libraries(turtlebot_joy_move_arm ${catkin_LIBRARIES})
 #############
 ## Install ##
 #############
-## Mark executables and/or libraries for installation
+## Mark executables and/or libraries for installation#
 install(TARGETS turtlebot_joy_move_arm
   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
